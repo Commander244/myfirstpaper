@@ -1,5 +1,5 @@
 # myfirstpaper 
-A paper on my outcomes in neurology
+A publication on my outcomes in neurology
 
 ## Abstract
 
