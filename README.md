@@ -1,5 +1,5 @@
-# myfirstpaper
-A paper on my results in neurology
+# myfirstpaper 
+A paper on my outcomes in neurology
 
 ## Abstract
 
